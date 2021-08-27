@@ -11,7 +11,6 @@
 <br>
 <img src="https://img.shields.io/badge/Git-f34e28?plastic&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20XD-ff26be?plastic&logo=adobe-xd&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00618b?plastic&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/filezilla-a81212?plastic&logo=filezilla&logoColor=white">
 <br>
 <br>
