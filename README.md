@@ -20,6 +20,7 @@
 <br>
 
 #### 🛠 열심히 작업중인 프로젝트에요~
+<img src="https://img.shields.io/badge/component%20css-33ADDF?plastic&logoColor=white">
 <img src="https://img.shields.io/badge/NG%20TISSOT-3455c0?plastic&logoColor=white&link=http://ngtissot.kr/">
 <br>
 <br>
