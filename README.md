@@ -1,5 +1,7 @@
 <div align="center">
-
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPlush777&count_bg=%2330A4D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 #### ✨웹 퍼블리싱 및 디자인
 <img src="https://img.shields.io/badge/html5-eb5c24?plastic&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-2386c7?plastic&logo=css3&logoColor=white">
