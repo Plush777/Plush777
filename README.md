@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/html5-eb5c24?plastic&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-2386c7?plastic&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/Scss-ff69b4?plastic&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7E018?plastic&logo=Javascript&logoColor=white">
  <img src="https://img.shields.io/badge/jquery-0169af?plastic&logo=jquery&logoColor=white">
+ <img src="https://img.shields.io/badge/%20Gulp-DC484C?plastic&logo=Gulp&logoColor=white&Color=white">
  <img src="https://img.shields.io/badge/Photoshop-2da9ff?plastic&logo=adobe-photoshop&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Git-f34e28?plastic&logo=git&logoColor=white">
