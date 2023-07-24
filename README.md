@@ -19,5 +19,4 @@
 <br><br>
 #### ✏️ Activity <br>
 <img src="https://img.shields.io/badge/%20Discord%20KSK-5865F2?plastic&logo=Discord&logoColor=white&Color=white"> <img src="https://img.shields.io/badge/Velog-20c393?plastic&logo=vimeo&logoColor=white&link=https://velog.io/@sky"> 
-<img src="https://img.shields.io/badge/%20tjrbdud_02-D3355D?plastic&logo=Instagram&logoColor=white&Color=white">
 <br>
